@@ -8,7 +8,7 @@
 
 <http://phpunit.de/manual/current/en/installation.html>
 
-<http://wp-cli.org/blog/plugin-unit-tests.html>
+<http://wp-cli.org/blog/plugin-unit-tests.html> (deprecated) See: <https://github.com/wp-cli/wp-cli/wiki/Plugin-Unit-Tests>
 
 <http://phpunit.de/manual/3.7/en/writing-tests-for-phpunit.html#writing-tests-for-phpunit.assertions>
 
